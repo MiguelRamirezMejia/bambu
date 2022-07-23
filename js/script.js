@@ -27,9 +27,7 @@
 	$(function () {
 		isNoviBuilder = window.xMode;
 
-		/**
-		 * @desc Attach form validation to elements
-		 * @param {object} elements - jQuery object
+		
 		 */
 		function attachFormValidator(elements) {
 			// Custom validator - phone number
